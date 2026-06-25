@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola, bienvenidx a mi perfil!
 
-<!--
-**imannolM/imannolM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
 
-Here are some ideas to get you started:
+Soy un apasionadx de la tecnología y siempre busco innovación en cada proyecto que realizo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+
+- **Proyecto A:** Una aplicación web que resuelve X utilizando Y.
+- **Proyecto B:** Un análisis de datos que explora Z y posibilita insights prácticos.
+
+## Contacto
+
+Puedes contactarme a través del correo electrónico ejemplo@dominio.com.
